@@ -82,7 +82,7 @@
   {
     "id": 11,
     "name": "Metapod",
-    "description": "The shell covering this Pokémon?s body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
+    "description": "The shell covering this Pokémon's body is as hard as an iron slab. Metapod does not move very much. It stays still because it is preparing its soft innards for evolution inside the hard shell.",
     "types": "Bug",
     "resistances": "Grass, Fighting, Ground",
     "weaknesses": "Fire, Flying, Rock"
@@ -91,7 +91,7 @@
     "id": 12,
     "name": "Butterfree",
     "description": "Butterfree has a superior ability to search for delicious honey from flowers. It can even search out, extract, and carry honey from flowers that are blooming over six miles from its nest.",
-    "types": "Bug,Flying",
+    "types": "Bug, Flying",
     "resistances": "Grass, Fighting, Ground, Bug",
     "weaknesses": "Fire, Electric, Ice, Flying, Rock"
   },
@@ -99,54 +99,54 @@
     "id": 13,
     "name": "Weedle",
     "description": "Weedle has an extremely acute sense of smell. It is capable of distinguishing its favorite kinds of leaves from those it dislikes just by sniffing with its big red proboscis (nose).",
-    "types": "Bug,Poison",
-    "resistances": "Grass,Fighting,Poison,Bug,Fairy",
-    "weaknesses": "Fire,Flying,Psychic,Rock"
+    "types": "Bug, Poison",
+    "resistances": "Grass, Fighting, Poison, Bug, Fairy",
+    "weaknesses": "Fire, Flying, Psychic, Rock"
   },
   {
     "id": 14,
     "name": "Kakuna",
     "description": "Kakuna remains virtually immobile as it clings to a tree. However, on the inside, it is extremely busy as it prepares for its coming evolution. This is evident from how hot the shell becomes to the touch.",
-    "types": "Bug,Poison",
-    "resistances": "Grass,Fighting,Poison,Bug,Fairy",
-    "weaknesses": "Fire,Flying,Psychic,Rock"
+    "types": "Bug, Poison",
+    "resistances": "Grass, Fighting, Poison, Bug, Fairy",
+    "weaknesses": "Fire, Flying, Psychic, Rock"
   },
   {
     "id": 15,
     "name": "Beedrill",
-    "description": "Beedrill is extremely territorial. No one should ever approach its nest?this is for their own safety. If angered, they will attack in a furious swarm.",
-    "types": "Bug,Poison",
-    "resistances": "Grass,Fighting,Poison,Bug,Fairy",
-    "weaknesses": "Fire,Flying,Psychic,Rock"
+    "description": "Beedrill is extremely territorial. No one should ever approach its nest, this is for their own safety. If angered, they will attack in a furious swarm.",
+    "types": "Bug, Poison",
+    "resistances": "Grass, Fighting, Poison, Bug, Fairy",
+    "weaknesses": "Fire, Flying, Psychic, Rock"
   },
   {
     "id": 16,
     "name": "Pidgey",
     "description": "Pidgey has an extremely sharp sense of direction. It is capable of unerringly returning home to its nest, however far it may be removed from its familiar surroundings.",
-    "types": "Normal,Flying",
-    "resistances": "Grass,Ground,Bug,Ghost",
-    "weaknesses": "Electric,Ice,Rock"
+    "types": "Normal, Flying",
+    "resistances": "Grass, Ground, Bug, Ghost",
+    "weaknesses": "Electric, Ice, Rock"
   },
   {
     "id": 17,
     "name": "Pidgeotto",
     "description": "Pidgeotto claims a large area as its own territory. This Pokémon flies around, patrolling its living space. If its territory is violated, it shows no mercy in thoroughly punishing the foe with its sharp claws.",
-    "types": "Normal,Flying",
-    "resistances": "Grass,Ground,Bug,Ghost",
-    "weaknesses": "Electric,Ice,Rock"
+    "types": "Normal, Flying",
+    "resistances": "Grass, Ground, Bug, Ghost",
+    "weaknesses": "Electric, Ice, Rock"
   },
   {
     "id": 18,
     "name": "Pidgeot",
     "description": "This Pokémon has a dazzling plumage of beautifully glossy feathers. Many Trainers are captivated by the striking beauty of the feathers on its head, compelling them to choose Pidgeot as their Pokémon.",
-    "types": "Normal,Flying",
-    "resistances": "Grass,Ground,Bug,Ghost",
-    "weaknesses": "Electric,Ice,Rock"
+    "types": "Normal, Flying",
+    "resistances": "Grass, Ground,Bug,Ghost",
+    "weaknesses": "Electric, Ice, Rock"
   },
   {
     "id": 19,
     "name": "Rattata",
-    "description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives?it will make its nest anywhere.",
+    "description": "Rattata is cautious in the extreme. Even while it is asleep, it constantly listens by moving its ears around. It is not picky about where it lives, it will make its nest anywhere.",
     "types": "Normal",
     "resistances": "Ghost",
     "weaknesses": "Fighting"
@@ -154,7 +154,7 @@
   {
     "id": 20,
     "name": "Raticate",
-    "description": "Raticate?s sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
+    "description": "Raticate's sturdy fangs grow steadily. To keep them ground down, it gnaws on rocks and logs. It may even chew on the walls of houses.",
     "types": "Normal",
     "resistances": "Ghost",
     "weaknesses": "Fighting"
@@ -163,17 +163,17 @@
     "id": 21,
     "name": "Spearow",
     "description": "Spearow has a very loud cry that can be heard over half a mile away. If its high, keening cry is heard echoing all around, it is a sign that they are warning each other of danger.",
-    "types": "Normal,Flying",
-    "resistances": "Grass,Ground,Bug,Ghost",
-    "weaknesses": "Electric,Ice,Rock"
+    "types": "Normal, Flying",
+    "resistances": "Grass, Ground, Bug, Ghost",
+    "weaknesses": "Electric, Ice, Rock"
   },
   {
     "id": 22,
     "name": "Fearow",
     "description": "Fearow is recognized by its long neck and elongated beak. They are conveniently shaped for catching prey in soil or water. It deftly moves its long and skinny beak to pluck prey.",
-    "types": "Normal,Flying",
-    "resistances": "Grass,Ground,Bug,Ghost",
-    "weaknesses": "Electric,Ice,Rock"
+    "types": "Normal, Flying",
+    "resistances": "Grass, Ground, Bug, Ghost",
+    "weaknesses": "Electric, Ice, Rock"
   },
   {
     "id": 23,
@@ -225,8 +225,8 @@
   },
   {
     "id": 29,
-    "name": "Nidoran ?",
-    "description": "Nidoran? has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
+    "name": "Nidoran",
+    "description": "Nidoran has barbs that secrete a powerful poison. They are thought to have developed as protection for this small-bodied Pokémon. When enraged, it releases a horrible toxin from its horn.",
     "types": "Poison",
     "resistances": "Grass,Fighting,Poison,Bug,Fairy",
     "weaknesses": "Ground,Psychic"
@@ -249,8 +249,8 @@
   },
   {
     "id": 32,
-    "name": "Nidoran ?",
-    "description": "Nidoran? has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
+    "name": "Nidoran",
+    "description": "Nidoran has developed muscles for moving its ears. Thanks to them, the ears can be freely moved in any direction. Even the slightest sound does not escape this Pokémon's notice.",
     "types": "Poison",
     "resistances": "Grass,Fighting,Poison,Bug,Fairy",
     "weaknesses": "Ground,Psychic"
@@ -386,7 +386,7 @@
   {
     "id": 49,
     "name": "Venomoth",
-    "description": "Venomoth is nocturnal?it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
+    "description": "Venomoth is nocturnal, it is a Pokémon that only becomes active at night. Its favorite prey are small insects that gather around streetlights, attracted by the light in the darkness.",
     "types": "Bug,Poison",
     "resistances": "Grass,Fighting,Poison,Bug,Fairy",
     "weaknesses": "Fire,Flying,Psychic,Rock"
@@ -394,7 +394,7 @@
   {
     "id": 50,
     "name": "Diglett",
-    "description": "Diglett are raised in most farms. The reason is simple?wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
+    "description": "Diglett are raised in most farms. The reason is simple, wherever this Pokémon burrows, the soil is left perfectly tilled for planting crops. This soil is made ideal for growing delicious vegetables.",
     "types": "Ground",
     "resistances": "Electric,Poison,Rock",
     "weaknesses": "Water,Grass,Ice"
@@ -522,7 +522,7 @@
   {
     "id": 66,
     "name": "Machop",
-    "description": "Machop's muscles are special?they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
+    "description": "Machop's muscles are special, they never get sore no matter how much they are used in exercise. This Pokémon has sufficient power to hurl a hundred adult humans.",
     "types": "Fighting",
     "resistances": "Bug,Rock,Dark",
     "weaknesses": "Flying,Psychic,Fairy"
@@ -938,7 +938,7 @@
   {
     "id": 118,
     "name": "Goldeen",
-    "description": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon?it could ram you powerfully with its horn.",
+    "description": "Goldeen is a very beautiful Pokémon with fins that billow elegantly in water. However, don't let your guard down around this Pokémon, it could ram you powerfully with its horn.",
     "types": "Water",
     "resistances": "Fire,Water,Ice,Steel",
     "weaknesses": "Electric,Grass"
